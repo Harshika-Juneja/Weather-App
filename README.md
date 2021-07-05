@@ -1,2 +1,3 @@
-# Weather-App
-Simple Weather App created with HTML,CSS,JS and Weather API
+# "Weather Application"
+Simple Weather Application created with HTML,CSS,JS and Weather API
+Live-Demo:
